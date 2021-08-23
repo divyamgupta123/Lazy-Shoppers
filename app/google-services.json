@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "294758294892",
+    "project_id": "lazy-shoppers-5f6fb",
+    "storage_bucket": "lazy-shoppers-5f6fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294758294892:android:91008c1f4512d362e03f49",
+        "android_client_info": {
+          "package_name": "com.lazyshoppers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294758294892-hak5ikq0caq25vmu9ea711hp9pg0i672.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lazyshoppers",
+            "certificate_hash": "c182991998d067b61c0dc690667d339c33960ac6"
+          }
+        },
+        {
+          "client_id": "294758294892-hg48qs296amt7uvbtj3c2ckm2ucvio3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6zCGiuq6uaw892k5mjxVvlG2VuF86uPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294758294892-hg48qs296amt7uvbtj3c2ckm2ucvio3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
